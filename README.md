@@ -2,35 +2,36 @@
  Trabalho socket Redes de Computadores
 <html>
 <head>
-<style>
-table, th, td {
-    border: 1px solid gray;
-    padding: 2px;
-}
 </style>
 </head>
 <body>
 <table>
   <thead>
     <tr>
-      <th>Cidade</th>
-      <th>População</th>
+      <th>Comittei tudo de uma vez so, entao resuminho para nao se perder</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td>Total</td>
-      <td>2.445.295</td>
+      <td>Vapo</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Recife</td>
-      <td>1.633.697</td>
+      <td>Pasta Multyplayer_pygame</td>
+      <td>e so um joguinho teste no pygame</td>
     </tr>
     <tr>
-      <td>João Pessoa</td>
-      <td>811.598</td>
+      <td>Pasta jokenpo</td>
+      <td>e um joguinho de jokenpo feito no pycharm muito brabo</td>
+    </tr>
+    <tr>
+      <td>Pasta pythonProject</td>
+      <td>e um chat entre server e cliente</td>
+    </tr>
+    <tr>
+      <td>Pasta socket</td>
+      <td>as duas ultimas pastas listadas acima mas nao sao os arquivos sao os testes ate chegar no resultado final</td>
     </tr>
   </tbody>
 </table>
