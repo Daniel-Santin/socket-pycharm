@@ -1,14 +1,13 @@
 # socket pycharm
- Trabalho socket Redes de Computadores
 <html>
 <head>
-
 </head>
 <body>
 <table>
+<caption> *Trabalho socket Redes de Computadores* </caption>
   <thead>
     <tr>
-      <th>Comittei tudo de uma vez so, entao resuminho para nao se perder</th>
+      Comittei tudo de uma vez so, entao resuminho para nao se perder
     </tr>
   </thead>
   <tbody>
