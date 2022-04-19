@@ -7,7 +7,7 @@
 <caption> *Trabalho socket Redes de Computadores* </caption>
   <thead>
     <tr>
-      Comittei tudo de uma vez so, entao resuminho para nao se perder
+      <th>Comittei tudo de uma vez so, entao resuminho para nao se perder</th>
     </tr>
   </thead>
   <tbody>
